@@ -1,7 +1,7 @@
 # myspotifydata
 
 Tableau Public Dashboard Link:
-(https://public.tableau.com/views/myspotifydata/dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+https://public.tableau.com/views/myspotifydata/dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 After requesting my data from Spotify, I decided to play around a bit with the streaming history data files by creating visualizations in Tableau.
 
